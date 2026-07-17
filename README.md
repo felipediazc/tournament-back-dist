@@ -1,6 +1,9 @@
 # tournament-back-dist
 
-Distribution-only repository for **tournament-back**.
+Distribution-only repository for **tournament-back**, the tournament management
+system of the [Jhanu](https://www.jhanu.com) platform for Taekwon-Do ITF schools.
+For help using the application, visit the
+[support page](https://www.jhanu.com/support).
 
 This repository contains **no source code**. It only hosts the published
 application artifacts (release JARs) under
@@ -30,3 +33,8 @@ https://github.com/felipediazc/tournament-back-dist/releases/latest/download/tou
 
 - Only built artifacts live here; the source code is maintained privately.
 - Released JARs are public and decompilable — they must not contain secrets.
+
+## Support
+
+This tool is part of the [Jhanu](https://www.jhanu.com) ecosystem. Questions,
+issues or help requests: [www.jhanu.com/support](https://www.jhanu.com/support).
