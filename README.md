@@ -41,6 +41,9 @@ https://github.com/felipediazc/tournament-back-dist/releases/latest/download/tou
 This tool is part of the [Jhanu](https://www.jhanu.com) ecosystem. Questions,
 issues or help requests: [www.jhanu.com/support](https://www.jhanu.com/support).
 
+Video tutorials for the tournament system are available on
+[YouTube](https://www.youtube.com/watch?v=1nEI-FjEZkU&list=PLemF6_thq_MmSf49wvh36TWrq9Rg8v9mX).
+
 ---
 
 # tournament-back-dist (Español)
@@ -86,3 +89,6 @@ https://github.com/felipediazc/tournament-back-dist/releases/latest/download/tou
 Esta herramienta es parte del ecosistema [Jhanu](https://www.jhanu.com).
 Preguntas, problemas o solicitudes de ayuda:
 [www.jhanu.com/support](https://www.jhanu.com/support).
+
+Los video tutoriales del sistema de torneos están disponibles en
+[YouTube](https://www.youtube.com/watch?v=1nEI-FjEZkU&list=PLemF6_thq_MmSf49wvh36TWrq9Rg8v9mX).
